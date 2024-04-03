@@ -64,3 +64,17 @@ targetpad
 1
 ```
 </details>
+
+<details>
+  <summary><b>License</b></summary>
+&emsp; 
+
+
+## License
+MIT License applied. In line with licenses from [CLIP4Cir](https://github.com/ABaldrati/CLIP4Cir/blob/master/LICENSE) and [FashionCLIP](https://github.com/patrickjohncyh/fashion-clip/blob/master/LICENSE).
+
+## Acknowledgement
+
+Our implementation is based on [CLIP4Cir](https://github.com/ABaldrati/CLIP4Cir) 
+&emsp; 
+</details>
